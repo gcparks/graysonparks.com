@@ -1,10 +1,10 @@
 +++
 draft = false
-image = "img/portfolio/birds.jpg"
+image = "img/portfolio/seo.jpg"
 showonlyimage = false
 date = "2016-11-05T20:02:19+05:30"
 title = "Blogging is Fun and Worthwhile"
-writer = "Göran Svensson"
+writer = "Grayson Parks"
 weight = 9
 +++
 

@@ -1,10 +1,10 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/portfolio/seo.jpg"
 date = "2016-11-05"
 title = "Name of the work 1"
-writer = "Lukas Herman"
+writer = "Grayson Parks"
 categories = [ "seo"]
 tags = ["fun"]
 weight = 1

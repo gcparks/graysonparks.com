@@ -1,10 +1,10 @@
 +++
 draft = false
-image = ""
+image = "img/portfolio/code.jpg"
 showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
 title = "A post without an Image"
-writer = "Göran Svensson"
+writer = "Grayson Parks"
 categories = [ "python" ]
 weight = 4
 +++

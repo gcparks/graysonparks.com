@@ -1,11 +1,11 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
 title = "This is a Standard Post"
-writer = "Göran Svensson"
+writer = "Grayson Parks"
 draft = false
-image = "img/portfolio/logs1.jpg"
+image = "img/portfolio/code.jpg"
 showonlyimage = false
-categories = [ "seo"]
+categories = [ "code"]
 weight = 2
 description = "Individual meta description for this post"
 +++

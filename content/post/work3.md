@@ -1,9 +1,9 @@
 +++
-image = "img/portfolio/bridge1.jpg"
+image = "img/portfolio/internet.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Another Awesome Post"
-writer = "Göran Svensson"
+writer = "Grayson Parks"
 categories = [ "web" ]
 draft = false
 weight = 3

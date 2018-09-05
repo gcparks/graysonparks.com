@@ -1,10 +1,10 @@
 +++
-draft = false
-image = "img/portfolio/paper-presentation.jpg"
+draft = true
+image = "img/portfolio/data.jpg"
 showonlyimage = true
 date = "2016-11-05T20:23:59+05:30"
 title = "Item with image"
-writer = "Göran Svensson"
+writer = "Grayson Parks"
 weight = 11
 +++
 
