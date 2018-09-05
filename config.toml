@@ -1,4 +1,4 @@
-baseurl = "zen-goldstine-7279"
+baseurl = "/"
 title = "Grayson Parks"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
